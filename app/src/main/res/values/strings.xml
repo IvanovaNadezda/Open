@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Open</string>
+    <string name="open_google_com">open google.com</string>
+    <string name="open_camera">open camera</string>
+    <string name="open_phone">open phone</string>
+    <string name="open_google_maps">open google maps</string>
+</resources>
